@@ -46,7 +46,7 @@ Open your web browser and go to `http://127.0.0.1:8000` to see the application i
 
 Here is a screenshot of the application:
 
-![Application Screenshot](./facerecognition/static/app_screenshot.png)
+![Application Screenshot](./static/app_screenshot.png)
 
 ## Features
 
