@@ -32,7 +32,6 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
-    'django-faceanalysis-ba73a3f34f57.herokuapp.com',
     ]
 
 
