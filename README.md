@@ -6,6 +6,8 @@ This project is a web application for face and emotion detection using Django.
 
 Heroku Demo: [https://django-faceanalysis-ba73a3f34f57.herokuapp.com](https://django-faceanalysis-ba73a3f34f57.herokuapp.com)
 
+AWS Demo: [http://facerecognition-django.eba-9pmtn8gm.us-east-1.elasticbeanstalk.com](http://facerecognition-django.eba-9pmtn8gm.us-east-1.elasticbeanstalk.com)
+
 ## Cloning the Repository
 
 To clone the repository, run the following command:
